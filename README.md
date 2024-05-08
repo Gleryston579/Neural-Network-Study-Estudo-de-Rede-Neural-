@@ -1,2 +1,2 @@
-Make sure to unzip the "archive" folder in the "Neural-Network-Study-Estudo-de-Rede-Neural-" folder.
-Certifique-se de descompactar a pasta archive na pasta "Neural-Network-Study-Estudo-de-Rede-Neural-".
+Make sure to unzip the "archive" folder in the "Neural-Network-Study-Estudo-de-Rede-Neural-" folder. This code uses a version of the Mnist dataset in csv, downloaded from kaggle on "MNIST in CSV" by Dariel Dato-on.
+Certifique-se de descompactar a pasta archive na pasta "Neural-Network-Study-Estudo-de-Rede-Neural-". Este código usa a versão csv do conjunto de dados Mnist, instalado do kaggle em "MNIST in CSV" por Dariel Dato-on.
